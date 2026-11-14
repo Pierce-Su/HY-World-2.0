@@ -1,0 +1,240 @@
+{
+  "Qwen/Qwen-Image-Edit-2509": {
+    "sha": "d3968ef930e841f4c73640fb8afa3b306a78167e",
+    "files": [
+      {
+        "path": ".gitattributes",
+        "size": 1580,
+        "lfs": null
+      },
+      {
+        "path": "README.md",
+        "size": 10273,
+        "lfs": null
+      },
+      {
+        "path": "model_index.json",
+        "size": 516,
+        "lfs": null
+      },
+      {
+        "path": "processor/added_tokens.json",
+        "size": 605,
+        "lfs": null
+      },
+      {
+        "path": "processor/chat_template.jinja",
+        "size": 1017,
+        "lfs": null
+      },
+      {
+        "path": "processor/merges.txt",
+        "size": 1671853,
+        "lfs": null
+      },
+      {
+        "path": "processor/preprocessor_config.json",
+        "size": 788,
+        "lfs": null
+      },
+      {
+        "path": "processor/special_tokens_map.json",
+        "size": 613,
+        "lfs": null
+      },
+      {
+        "path": "processor/tokenizer.json",
+        "size": 11421896,
+        "lfs": {
+          "size": 11421896,
+          "sha256": "9c5ae00e602b8860cbd784ba82a8aa14e8feecec692e7076590d014d7b7fdafa",
+          "pointer_size": 133
+        }
+      },
+      {
+        "path": "processor/tokenizer_config.json",
+        "size": 4727,
+        "lfs": null
+      },
+      {
+        "path": "processor/video_preprocessor_config.json",
+        "size": 904,
+        "lfs": null
+      },
+      {
+        "path": "processor/vocab.json",
+        "size": 2776833,
+        "lfs": null
+      },
+      {
+        "path": "scheduler/scheduler_config.json",
+        "size": 485,
+        "lfs": null
+      },
+      {
+        "path": "text_encoder/config.json",
+        "size": 3217,
+        "lfs": null
+      },
+      {
+        "path": "text_encoder/generation_config.json",
+        "size": 244,
+        "lfs": null
+      },
+      {
+        "path": "text_encoder/model-00001-of-00004.safetensors",
+        "size": 4968243304,
+        "lfs": {
+          "size": 4968243304,
+          "sha256": "d725335e4ea2399be706469e4b8807716a8fa64bd03468252e9f7acf2415fee4",
+          "pointer_size": 135
+        }
+      },
+      {
+        "path": "text_encoder/model-00002-of-00004.safetensors",
+        "size": 4991495816,
+        "lfs": {
+          "size": 4991495816,
+          "sha256": "b1830db6908dcc76df3a71492acbcf2b8cac130114cf1f3c2d9edae8de8c6de3",
+          "pointer_size": 135
+        }
+      },
+      {
+        "path": "text_encoder/model-00003-of-00004.safetensors",
+        "size": 4932751040,
+        "lfs": {
+          "size": 4932751040,
+          "sha256": "09c1807c6d00d7cab94f7db39d4c02ebb8537225ccde383861ac48db97945aa6",
+          "pointer_size": 135
+        }
+      },
+      {
+        "path": "text_encoder/model-00004-of-00004.safetensors",
+        "size": 1691924384,
+        "lfs": {
+          "size": 1691924384,
+          "sha256": "5dd068336d14d45ffb43cef374d286cc6ba9d8741b028f90a7d040d847961f4a",
+          "pointer_size": 135
+        }
+      },
+      {
+        "path": "text_encoder/model.safetensors.index.json",
+        "size": 57655,
+        "lfs": null
+      },
+      {
+        "path": "tokenizer/added_tokens.json",
+        "size": 605,
+        "lfs": null
+      },
+      {
+        "path": "tokenizer/chat_template.jinja",
+        "size": 2427,
+        "lfs": null
+      },
+      {
+        "path": "tokenizer/merges.txt",
+        "size": 1671853,
+        "lfs": null
+      },
+      {
+        "path": "tokenizer/special_tokens_map.json",
+        "size": 613,
+        "lfs": null
+      },
+      {
+        "path": "tokenizer/tokenizer_config.json",
+        "size": 4686,
+        "lfs": null
+      },
+      {
+        "path": "tokenizer/vocab.json",
+        "size": 3383407,
+        "lfs": null
+      },
+      {
+        "path": "transformer/config.json",
+        "size": 339,
+        "lfs": null
+      },
+      {
+        "path": "transformer/diffusion_pytorch_model-00001-of-00005.safetensors",
+        "size": 9973578592,
+        "lfs": {
+          "size": 9973578592,
+          "sha256": "784a8efc4dcea09ba20b534bbe9e5fae3367d929525031a4bd26c5ddb7eb18e5",
+          "pointer_size": 135
+        }
+      },
+      {
+        "path": "transformer/diffusion_pytorch_model-00002-of-00005.safetensors",
+        "size": 9987326072,
+        "lfs": {
+          "size": 9987326072,
+          "sha256": "86ce21e5e3bdecfbeaa31aa587c03d0d1af6ab05d79c127149e8217f81e0247f",
+          "pointer_size": 135
+        }
+      },
+      {
+        "path": "transformer/diffusion_pytorch_model-00003-of-00005.safetensors",
+        "size": 9987307440,
+        "lfs": {
+          "size": 9987307440,
+          "sha256": "c6a046daa991f3b32c3ae39ff95e6e7220455265fcbbb643e9f556bea8641d02",
+          "pointer_size": 135
+        }
+      },
+      {
+        "path": "transformer/diffusion_pytorch_model-00004-of-00005.safetensors",
+        "size": 9930685712,
+        "lfs": {
+          "size": 9930685712,
+          "sha256": "c28bf871d5db0a6397843eca3987e58ba2c3013d287d5d4a1271d68e158ce7e8",
+          "pointer_size": 135
+        }
+      },
+      {
+        "path": "transformer/diffusion_pytorch_model-00005-of-00005.safetensors",
+        "size": 982130472,
+        "lfs": {
+          "size": 982130472,
+          "sha256": "dd2844e5cafb03b16bed9556aa29c15396a787e17c38a0eda7f5a1281497c76a",
+          "pointer_size": 134
+        }
+      },
+      {
+        "path": "transformer/diffusion_pytorch_model.safetensors.index.json",
+        "size": 198887,
+        "lfs": null
+      },
+      {
+        "path": "vae/config.json",
+        "size": 730,
+        "lfs": null
+      },
+      {
+        "path": "vae/diffusion_pytorch_model.safetensors",
+        "size": 253806966,
+        "lfs": {
+          "size": 253806966,
+          "sha256": "0c8bc8b758c649abef9ea407b95408389a3b2f610d0d10fcb054fe171d0a8344",
+          "pointer_size": 134
+        }
+      }
+    ]
+  },
+  "tencent/HY-World-2.0": {
+    "sha": "d78a16c91c7a56488894a1c8de4f5c7cc28aa8b0",
+    "files": [
+      {
+        "path": "HY-Pano-2.0/pytorch_lora_weights.safetensors",
+        "size": 849544392,
+        "lfs": {
+          "size": 849544392,
+          "sha256": "64db8d1b9369aa9080fc9cea20c594e2b34935cb67217394c1da78399d1682ae",
+          "pointer_size": 134
+        }
+      }
+    ]
+  }
+}
