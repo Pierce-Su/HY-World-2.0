@@ -1,0 +1,74 @@
+{
+  "Qwen/Qwen-Image-Edit-2509": {
+    "revision": "d3968ef930e841f4c73640fb8afa3b306a78167e",
+    "snapshot": "/root/.cache/huggingface/hub/models--Qwen--Qwen-Image-Edit-2509/snapshots/d3968ef930e841f4c73640fb8afa3b306a78167e",
+    "verified_lfs": [
+      {
+        "path": "/root/.cache/huggingface/hub/models--Qwen--Qwen-Image-Edit-2509/snapshots/d3968ef930e841f4c73640fb8afa3b306a78167e/processor/tokenizer.json",
+        "size": 11421896,
+        "sha256": "9c5ae00e602b8860cbd784ba82a8aa14e8feecec692e7076590d014d7b7fdafa"
+      },
+      {
+        "path": "/root/.cache/huggingface/hub/models--Qwen--Qwen-Image-Edit-2509/snapshots/d3968ef930e841f4c73640fb8afa3b306a78167e/text_encoder/model-00001-of-00004.safetensors",
+        "size": 4968243304,
+        "sha256": "d725335e4ea2399be706469e4b8807716a8fa64bd03468252e9f7acf2415fee4"
+      },
+      {
+        "path": "/root/.cache/huggingface/hub/models--Qwen--Qwen-Image-Edit-2509/snapshots/d3968ef930e841f4c73640fb8afa3b306a78167e/text_encoder/model-00002-of-00004.safetensors",
+        "size": 4991495816,
+        "sha256": "b1830db6908dcc76df3a71492acbcf2b8cac130114cf1f3c2d9edae8de8c6de3"
+      },
+      {
+        "path": "/root/.cache/huggingface/hub/models--Qwen--Qwen-Image-Edit-2509/snapshots/d3968ef930e841f4c73640fb8afa3b306a78167e/text_encoder/model-00003-of-00004.safetensors",
+        "size": 4932751040,
+        "sha256": "09c1807c6d00d7cab94f7db39d4c02ebb8537225ccde383861ac48db97945aa6"
+      },
+      {
+        "path": "/root/.cache/huggingface/hub/models--Qwen--Qwen-Image-Edit-2509/snapshots/d3968ef930e841f4c73640fb8afa3b306a78167e/text_encoder/model-00004-of-00004.safetensors",
+        "size": 1691924384,
+        "sha256": "5dd068336d14d45ffb43cef374d286cc6ba9d8741b028f90a7d040d847961f4a"
+      },
+      {
+        "path": "/root/.cache/huggingface/hub/models--Qwen--Qwen-Image-Edit-2509/snapshots/d3968ef930e841f4c73640fb8afa3b306a78167e/transformer/diffusion_pytorch_model-00001-of-00005.safetensors",
+        "size": 9973578592,
+        "sha256": "784a8efc4dcea09ba20b534bbe9e5fae3367d929525031a4bd26c5ddb7eb18e5"
+      },
+      {
+        "path": "/root/.cache/huggingface/hub/models--Qwen--Qwen-Image-Edit-2509/snapshots/d3968ef930e841f4c73640fb8afa3b306a78167e/transformer/diffusion_pytorch_model-00002-of-00005.safetensors",
+        "size": 9987326072,
+        "sha256": "86ce21e5e3bdecfbeaa31aa587c03d0d1af6ab05d79c127149e8217f81e0247f"
+      },
+      {
+        "path": "/root/.cache/huggingface/hub/models--Qwen--Qwen-Image-Edit-2509/snapshots/d3968ef930e841f4c73640fb8afa3b306a78167e/transformer/diffusion_pytorch_model-00003-of-00005.safetensors",
+        "size": 9987307440,
+        "sha256": "c6a046daa991f3b32c3ae39ff95e6e7220455265fcbbb643e9f556bea8641d02"
+      },
+      {
+        "path": "/root/.cache/huggingface/hub/models--Qwen--Qwen-Image-Edit-2509/snapshots/d3968ef930e841f4c73640fb8afa3b306a78167e/transformer/diffusion_pytorch_model-00004-of-00005.safetensors",
+        "size": 9930685712,
+        "sha256": "c28bf871d5db0a6397843eca3987e58ba2c3013d287d5d4a1271d68e158ce7e8"
+      },
+      {
+        "path": "/root/.cache/huggingface/hub/models--Qwen--Qwen-Image-Edit-2509/snapshots/d3968ef930e841f4c73640fb8afa3b306a78167e/transformer/diffusion_pytorch_model-00005-of-00005.safetensors",
+        "size": 982130472,
+        "sha256": "dd2844e5cafb03b16bed9556aa29c15396a787e17c38a0eda7f5a1281497c76a"
+      },
+      {
+        "path": "/root/.cache/huggingface/hub/models--Qwen--Qwen-Image-Edit-2509/snapshots/d3968ef930e841f4c73640fb8afa3b306a78167e/vae/diffusion_pytorch_model.safetensors",
+        "size": 253806966,
+        "sha256": "0c8bc8b758c649abef9ea407b95408389a3b2f610d0d10fcb054fe171d0a8344"
+      }
+    ]
+  },
+  "tencent/HY-World-2.0": {
+    "revision": "d78a16c91c7a56488894a1c8de4f5c7cc28aa8b0",
+    "snapshot": "/root/.cache/huggingface/hub/models--tencent--HY-World-2.0/snapshots/d78a16c91c7a56488894a1c8de4f5c7cc28aa8b0",
+    "verified_lfs": [
+      {
+        "path": "/root/.cache/huggingface/hub/models--tencent--HY-World-2.0/snapshots/d78a16c91c7a56488894a1c8de4f5c7cc28aa8b0/HY-Pano-2.0/pytorch_lora_weights.safetensors",
+        "size": 849544392,
+        "sha256": "64db8d1b9369aa9080fc9cea20c594e2b34935cb67217394c1da78399d1682ae"
+      }
+    ]
+  }
+}

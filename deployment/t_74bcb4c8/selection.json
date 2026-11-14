@@ -1,0 +1,109 @@
+[
+  {
+    "id": "photorealistic_0106",
+    "index": 106,
+    "variant": "photorealistic",
+    "style": "photorealistic",
+    "input": "/root/HY-World-2.0/curated_set/photorealistic/0106.jpg",
+    "input_sha256": "a1b93c357a49bf25a42aaf592ebb2d327136bde845b38d2e6a8022ba98212c89",
+    "record": {
+      "index": 106,
+      "scene_type": "indoor",
+      "category": "Living spaces",
+      "style": "photorealistic",
+      "content": "Cozy Living Room, Sofa, Coffee Table",
+      "photorealistic": {
+        "filename": "0106.jpg",
+        "original_path": "static/photorealistic/indoor/living_spaces/006.jpg",
+        "camera_path": [
+          "pan_left"
+        ],
+        "prompt": "In the Cozy Living Room, a plush sofa sits invitingly beside a well-arranged coffee table adorned with flowers and books.",
+        "style": "photorealistic"
+      }
+    }
+  },
+  {
+    "id": "photorealistic_0501",
+    "index": 501,
+    "variant": "photorealistic",
+    "style": "photorealistic",
+    "input": "/root/HY-World-2.0/curated_set/photorealistic/0501.jpg",
+    "input_sha256": "915061ca32639c2c5c2ce9313025e88d2ee405f5fc280f1bf0f54e82e6dd510c",
+    "record": {
+      "index": 501,
+      "scene_type": "outdoor",
+      "category": "Aquatic landscape",
+      "style": "photorealistic",
+      "content": "Mountain Lake Serenity, wooden cabin, mountain view",
+      "photorealistic": {
+        "filename": "0501.jpg",
+        "original_path": "static/photorealistic/outdoor/aquatic_landscape/001.jpg",
+        "camera_path": [
+          "pull_out"
+        ],
+        "prompt": "In the Mountain Lake Serenity scene, a wooden cabin rests peacefully by the lake, with majestic mountains towering in the background.",
+        "style": "photorealistic"
+      }
+    }
+  },
+  {
+    "id": "stylized_0005",
+    "index": 5,
+    "variant": "stylized",
+    "style": "ukiyo-e",
+    "input": "/root/HY-World-2.0/curated_set/stylized/0005.jpg",
+    "input_sha256": "cbe065479a4530812b4d264cb017523484ea6101afe22d7a0221ec93430b3f41",
+    "record": {
+      "index": 5,
+      "scene_type": "indoor",
+      "category": "Dining spaces",
+      "style": "photorealistic",
+      "content": "Cozy Caf\u00e9 Ambiance, tables, counter",
+      "stylized": {
+        "filename": "0005.jpg",
+        "original_path": "static/stylized/indoor/dining_spaces/005.jpg",
+        "camera_path": [
+          "orbit_right"
+        ],
+        "prompt": "In the scene \"Cozy Caf\u00e9 Ambiance,\" sunlight filters through large windows, illuminating wooden tables and a bustling counter with patrons enjoying their drinks.",
+        "style": "ukiyo-e"
+      },
+      "photorealistic": {
+        "filename": "0005.jpg",
+        "original_path": "static/photorealistic/indoor/dining_spaces/005.jpg",
+        "camera_path": [
+          "orbit_right"
+        ],
+        "prompt": "In the scene \"Cozy Caf\u00e9 Ambiance,\" sunlight filters through large windows, illuminating wooden tables and a bustling counter with patrons enjoying their drinks.",
+        "style": "photorealistic"
+      }
+    }
+  },
+  {
+    "id": "stylized_0084",
+    "index": 84,
+    "variant": "stylized",
+    "style": "chinese_ink_painting",
+    "input": "/root/HY-World-2.0/curated_set/stylized/0084.jpg",
+    "input_sha256": "57aa6db5fb030ed074e3855dd8274726f2a384ef421019a95c98a3efc9d7932f",
+    "record": {
+      "index": 84,
+      "scene_type": "indoor",
+      "category": "Dining spaces",
+      "style": "chinese_ink_painting",
+      "content": "Modern Kitchen Scene, Stove, Pot",
+      "stylized": {
+        "filename": "0084.jpg",
+        "original_path": "static/stylized/indoor/dining_spaces/084.jpg",
+        "camera_path": [
+          "move_left",
+          "pull_out",
+          "pan_left"
+        ],
+        "prompt": "In the Modern Kitchen Scene, the stove softly illuminates the pot simmering gently on a sleek countertop.",
+        "style": "chinese_ink_painting"
+      }
+    }
+  }
+]
